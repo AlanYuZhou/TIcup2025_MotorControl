@@ -1,3 +1,6 @@
+## This project is for TI Cup 2025
+The code is for MSPM0G3507
+
 ## Example Summary
 
 Empty project using DriverLib.
